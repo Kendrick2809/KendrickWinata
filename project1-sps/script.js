@@ -11,7 +11,7 @@ var generateRandomInteger = function () {
   var randomInteger = Math.floor(randomDecimal) + 1;
   return randomInteger;
 };
-
+//
 // define variables for scissors papers stone
 var SCISSORS = "scissors";
 var PAPER = "paper";
